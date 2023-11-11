@@ -1,0 +1,6 @@
+# ninja log v5
+1	1631	1699667986365693195	CMakeFiles/chat_gtp_playground.dir/fileRenamer.cpp.o	5636694be2fa2779
+0	1447	1699667986179386585	CMakeFiles/chat_gtp_playground.dir/main.cpp.o	338da90f388b95dc
+0	202	1699668057857593199	build.ninja	6c085d23b5fd5011
+10	1466	1699668059354021635	CMakeFiles/chat_gtp_playground.dir/main.cpp.o	338da90f388b95dc
+1466	1601	1699668059491539599	chat_gtp_playground	30c38f590353e7f5
